@@ -1,4 +1,4 @@
-# Codex Skills Marketplace
+﻿# Codex Skills Marketplace
 
 AI-powered skills for Codex ? one-click install, instant productivity boost.
 
@@ -75,3 +75,9 @@ Requires Codex desktop app with the skill-installer skill enabled.
 ## Custom Skills
 
 Need a custom skill for your team or project? Contact: [GitHub Issues](https://github.com/KK-max-X/codex-skills/issues)
+
+---
+
+## License
+
+Free for personal use. Commercial use requires a license — contact via [GitHub Issues](https://github.com/KK-max-X/codex-skills/issues).
