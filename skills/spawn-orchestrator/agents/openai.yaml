@@ -1,0 +1,5 @@
+﻿interface:
+  display_name: "Spawn Orchestrator"
+  short_description: "Plan, split, and spawn parallel sub-agent tasks"
+  brand_color: "#8B5CF6"
+  default_prompt: "Use $spawn-orchestrator to plan and decompose this complex task, then spawn parallel sub-agents to execute independently. Integrate results when all agents return."
