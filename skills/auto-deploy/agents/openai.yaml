@@ -1,0 +1,4 @@
+interface:
+  display_name: "Auto Deploy"
+  short_description: "Auto-detect project type and deploy with one click"
+  default_prompt: "Detect the project type and deploy it to the best platform automatically."
