@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Code Review"
+  short_description: "Review PRs for bugs, security, and code smells"
+  default_prompt: "Review this PR for bugs, security issues, performance problems, and code quality."
